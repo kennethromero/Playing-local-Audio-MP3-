@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playing local Audio (MP3)", "Playing local Audio (MP3).csproj", "{88E78FF9-9406-432F-B88E-1245396F5349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E78FF9-9406-432F-B88E-1245396F5349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E78FF9-9406-432F-B88E-1245396F5349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E78FF9-9406-432F-B88E-1245396F5349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E78FF9-9406-432F-B88E-1245396F5349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C822C0-2721-4206-AA9E-80262B08CC45}
+	EndGlobalSection
+EndGlobal
