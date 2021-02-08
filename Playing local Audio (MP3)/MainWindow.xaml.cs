@@ -13,16 +13,31 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Playing_local_Audio__MP3_
+using System;
+using System.Windows;
+using System.Windows.Media;
+using Microsoft.Win32;
+
+namespace WpfTutorialSamples.Audio_and_Video
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
-    {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
-    }
+	public partial class MediaPlayerAudioSample : Window
+	{
+		private MediaPlayer mediaPlayer = new MediaPlayer();
+
+		public MediaPlayerAudioSample()
+		{
+			InitializeComponent();
+		}
+
+		private void btnOpenAudioFile_Click(object sender, RoutedEventArgs e)
+		{
+			OpenFileDialog openFileDialog = new OpenFileDialog();
+			openFileDialog.Filter = "MP3 files (*.mp3)|*.mp3|All files (*.*)|*.*";
+			if (openFileDialog.ShowDialog() == true)
+			{
+				mediaPlayer.Open(new Uri(openFileDialog.FileName));
+				mediaPlayer.Play();
+			}
+		}
+	}
 }

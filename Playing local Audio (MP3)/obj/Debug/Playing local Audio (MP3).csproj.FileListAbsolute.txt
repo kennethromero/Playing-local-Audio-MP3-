@@ -1,0 +1,14 @@
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\bin\Debug\Playing local Audio (MP3).exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\bin\Debug\Playing local Audio (MP3).exe
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\bin\Debug\Playing local Audio (MP3).pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3).csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3)_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3).g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing_local_Audio__MP3_.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3).csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3).csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3).exe
+C:\Users\Kenneth\Desktop\ict project\projects\Playing local Audio (MP3)\Playing local Audio (MP3)\obj\Debug\Playing local Audio (MP3).pdb
